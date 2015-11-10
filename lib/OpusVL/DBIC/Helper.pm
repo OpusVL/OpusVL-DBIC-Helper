@@ -8,7 +8,7 @@ our $VERSION = '0.001';
 
 =head1 NAME
 
-OpusVL::DBIC::Helper
+OpusVL::DBIC::Helper - Helper functions for DBIC
 
 =head1 DESCRIPTION
 
