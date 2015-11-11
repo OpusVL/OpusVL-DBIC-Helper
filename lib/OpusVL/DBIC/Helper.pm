@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package OpusVL::DBIC::Helper;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 1;
 
